@@ -4,7 +4,6 @@ const cheerio = require("cheerio");
 const express = require("express");
 
 const PORT = 8000;
-const newPort = 5000;
 const URL = "https://www.careers24.com/jobs/kw-web-developer/rmt-incl/";
 
 // Initialize Express
